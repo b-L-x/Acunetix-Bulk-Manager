@@ -22,7 +22,7 @@
 ![HTTP Logs](assets/auto1.PNG)  
 *See every HTTP request and response in real time — perfect for troubleshooting API issues or validating payloads.*
 
-##4. Diagramme 
+4. Diagramme 
 ![HTTP Logs](assets/diagramme.png)
 ---
 
