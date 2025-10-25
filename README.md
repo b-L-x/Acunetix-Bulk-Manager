@@ -2,7 +2,7 @@
 
 ⚡ Tested with https://github.com/0xgkd/awvs (multi engine scan OK)
 
-> **A powerful PyQt6 GUI for bulk managing Acunetix scans — add 10,000+ targets instantly, cancel/delete all scans in one click, and monitor HTTP traffic in real time. Built for DevSecOps teams managing large-scale infrastructure. No more manual clicks. Just automation.**
+> **GUI for bulk managing Acunetix scans — add 10,000+ targets instantly, cancel/delete all scans in one click, and monitor HTTP traffic in real time. Built for DevSecOps teams managing large-scale infrastructure. No more manual clicks. Just automation.**
 
 <p align="center">
   <img src="assets/logo.ico" alt="Acunetix Bulk Manager Logo" width="120" />
