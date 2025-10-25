@@ -45,6 +45,7 @@
 
 - Python 3.8+
 - `requests`, `keyring`, `PyQt6`, `urllib3`
+- work with : https://github.com/0xgkd/awvs 
 - Acunetix v13+ with API access enabled
 
 Install dependencies:
